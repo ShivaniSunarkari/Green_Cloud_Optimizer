@@ -1,0 +1,6 @@
+ec2_report
+Instance ID,Instance Type,State,Daily Cost
+i-04af66c3604d77ceb,t2.micro,running,0.28
+i-0e84bed802c6564fa,t2.micro,stopped,0.28
+i-00bbb532bd3acaa87,t3.micro,running,0.75
+i-0bf9f3dc3eb36e765,t3.micro,running,0.75
